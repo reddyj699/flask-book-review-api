@@ -100,7 +100,7 @@ This API can be extended to include user authentication, pagination, review time
 # Deployment
 
 ## 1. Clone the repository
-git clone https://github.com/your-username/flask-book-review-api.git
+git clone https://github.com/reddyj699@gmail.com/flask-book-review-api.git
 cd flask-book-review-api
 
 ## 2. Create and activate a virtual environment
